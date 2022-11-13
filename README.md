@@ -12,5 +12,5 @@ Combination(over and undersampling) results: balanced accuracy score is 54.7% th
 
 Easy Ensemble AdaBoost Classifier resultshad the higest accuracy score with 92%, percison of 99% and recall of 94%.
 
-##conclusion
+## conclusion
 considering all the models used, it is recomended to use easy ensemble classifier as it was the most accurate and to avoid the cluster centroids model as it was the least accurate. T
